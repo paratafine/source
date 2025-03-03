@@ -1,1 +1,147 @@
-{"apps":[{"beta":false,"bundleIdentifier":"com.mojang.minecraftpe","developerName":"Nabzclan / Mojang","downloadURL":"https://www.dropbox.com/scl/fi/gbx8506pfxz99pztcbxgi/Minecraft_1.21.61.ipa?rlkey=3zzlfqd7nly9ckxp01gle2ae9&st=askyfoam&dl=1","iconURL":"https://apps.nabzclan.vip/images/1689953960.webp","localizedDescription":"Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs.","name":"Minecraft","screenshotURLs":["https://apps.nabzclan.vip/screenshots/16899539607674045094.webp","https://apps.nabzclan.vip/screenshots/16899539604734358438.webp","https://apps.nabzclan.vip/screenshots/16899539568593312877.webp"],"size":0,"subtitle":"Minecraft Vanilla","tintColor":"018084","version":"1.21.61","versionDate":"2025-03-03","versionDescription":"Fixed various bugs"},{"beta":false,"bundleIdentifier":"com.utmapp.UTM","developerName":"UTM Developers","downloadURL":"https://github.com/utmapp/UTM/releases/download/v4.6.4/UTM.ipa","iconURL":"https://avatars.githubusercontent.com/u/49966544?s=200&v=4","localizedDescription":"UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad.","name":"UTM","screenshotURLs":["https://cydia.getutm.app/assets/com.utmapp.UTM/screenshot/screen0.png"],"size":0,"subtitle":"(Dev Cert+JIT Required) Virtual machines on iOS.","tintColor":"018084","version":"4.6.4","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":"Fixed an issue with virtio-ramfb device where Windows may sometimes try to render to an inactive display target causing black screen, \"Guest has not initialized the display (yet)\", or broken cursor. This sometimes happens right after installing the viogpudo drivers for the first time and more recently while upgrading to Windows 11 24H2. (#6332, #6883)\nFixed a crash that might occur when a serial port is used and a large amount of data arrives at startup\nFixed a crash that might occur on a VM with a serial port if data arrives as the guest is shutting down\n(macOS) Fixed a crash launching any ARM64 virtualized QEMU VMs on macOS Monterey or older (#6881)\n(macOS) Fixed a deadlock (freeze) which can be observed if a Linux VM with GL acceleration enabled is left running for a long time (#5205)\n(macOS) Fixed auto-resolution restore not working properly after a macOS guest is paused or suspended (#6874)\n(macOS) Fixed an issue causing the mouse cursor to disappear when a macOS guest is paused (#6875)"},{"beta":false,"bundleIdentifier":"com.rileytestut.Delta","developerName":"Riley Testut","downloadURL":"https://cdn.altstore.io/file/altstore/apps/delta/1_6_3.ipa","iconURL":"https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png","localizedDescription":"Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64. FEATURES Supported Game Systems • Nintendo Entertainment System • Super Nintendo Entertainment System • Nintendo 64 • Game Boy (Color) • Game Boy Advance • Nintendo DS • And plenty more to come!\n\nDelta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**","name":"Delta","screenshotURLs":["https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG","https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png","https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"],"size":0,"subtitle":"Game emulator with console like DS, SNES, NES...","tintColor":"018084","version":"1.6.3","versionDate":"2025-02-03","versionDescription":""},{"beta":false,"bundleIdentifier":"com.burbn.instagram","developerName":"Cypwn IPA Library / Fouad Raheb ","downloadURL":"https://files.catbox.moe/jvicaz.ipa","iconURL":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png","localizedDescription":"Boost your Instagram with many privacy, analytics, and customization features.","name":"Instagram","screenshotURLs":["https://regram.fouadraheb.com/assets/ss1-DuObw4FZ.png"],"size":0,"subtitle":"ReGram Cracked","tintColor":"018084","version":"351.0.1","versionDate":"2025-03-02","versionDescription":""},{"beta":false,"bundleIdentifier":"com.google.ios.youtubemusic","developerName":"dayanch96","downloadURL":"https://files.catbox.moe/f1jvkr.ipa","iconURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/1024px-Youtube_Music_icon.svg.png","localizedDescription":"YTMusicUltimate is a YouTube Music tweak that adds free playback, no ads, free downloads, UI customization and more.","name":"YouTube Music","screenshotURLs":["https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true)","https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true)"],"size":0,"subtitle":"YTMusicUltimate - No ads, free playback, downloads and more","tintColor":"018084","version":"7.27","versionDate":"2025-03-02","versionDescription":"YTMusicUltimate 2.3\nMove to light version of mobile-ffmpeg\nMove downloading to native download button\nFix workflow issues"},{"beta":false,"bundleIdentifier":"com.google.ios.youtube","developerName":"dayanch96","downloadURL":"https://files.catbox.moe/z8jg5n.ipa","iconURL":"https://cdn-icons-png.flaticon.com/512/1384/1384060.png","localizedDescription":"YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.","name":"YouTube","screenshotURLs":["https://ytliteplus.github.io/Screenshot-1.png","https://ytliteplus.github.io/Screenshot-2.png","https://ytliteplus.github.io/Screenshot-3.png"],"size":0,"subtitle":"YTLitePlus - No ads, free downloads and more","tintColor":"018084","version":"19.34.2","versionDate":"2025-03-01","versionDescription":"RELEASE 19.34.2-5.0.1:\n\nUpdated Youtube from 19.32.6 to 19.34.2\nUpdated YTLite from 4.0.1 to 5.0.1"},{"beta":false,"bundleIdentifier":"com.spotify.client","developerName":"SpotCompiled","downloadURL":"https://files.catbox.moe/bshyar.ipa","iconURL":"https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png","localizedDescription":"Spotify Premium for free with SpotveeC.","name":"Spotify","screenshotURLs":[""],"size":0,"subtitle":"Spotify Premium for free with SpotveeC.","tintColor":"018084","version":"3.3.4","versionDate":"2025-03-02T14:00:00-07:00","versionDescription":""}],"identifier":"com.parata.source","name":"Parata's Source","news":[],"userInfo":{}}
+"apps": [
+		{
+			"beta": false,
+			"bundleIdentifier": "com.mojang.minecraftpe",
+			"developerName": "Nabzclan / Mojang",
+			"downloadURL": "https://www.dropbox.com/scl/fi/gbx8506pfxz99pztcbxgi/Minecraft_1.21.61.ipa?rlkey=3zzlfqd7nly9ckxp01gle2ae9&st=askyfoam&dl=1",
+			"iconURL": "https://apps.nabzclan.vip/images/1689953960.webp",
+			"localizedDescription": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs.",
+			"name": "Minecraft",
+			"screenshotURLs": [
+				"https://apps.nabzclan.vip/screenshots/16899539607674045094.webp",
+				"https://apps.nabzclan.vip/screenshots/16899539604734358438.webp",
+				"https://apps.nabzclan.vip/screenshots/16899539568593312877.webp"
+			],
+			"size": 0,
+			"subtitle": "Minecraft Vanilla",
+			"tintColor": "018084",
+			"version": "1.21.61",
+			"versionDate": "2025-03-03",
+			"versionDescription": "Fixed various bugs"
+		},
+		{
+			"beta": false,
+			"bundleIdentifier": "com.utmapp.UTM",
+			"developerName": "UTM Developers",
+			"downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.6.4/UTM.ipa",
+			"iconURL": "https://avatars.githubusercontent.com/u/49966544?s=200&v=4",
+			"localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad.",
+			"name": "UTM",
+			"screenshotURLs": [
+				"https://cydia.getutm.app/assets/com.utmapp.UTM/screenshot/screen0.png"
+			],
+			"size": 0,
+			"subtitle": "(Dev Cert+JIT Required) Virtual machines on iOS.",
+			"tintColor": "018084",
+			"version": "4.6.4",
+			"versionDate": "2020-03-24T14:00:00-07:00",
+			"versionDescription": "Fixed an issue with virtio-ramfb device where Windows may sometimes try to render to an inactive display target causing black screen, \"Guest has not initialized the display (yet)\", or broken cursor. This sometimes happens right after installing the viogpudo drivers for the first time and more recently while upgrading to Windows 11 24H2. (#6332, #6883)\nFixed a crash that might occur when a serial port is used and a large amount of data arrives at startup\nFixed a crash that might occur on a VM with a serial port if data arrives as the guest is shutting down\n(macOS) Fixed a crash launching any ARM64 virtualized QEMU VMs on macOS Monterey or older (#6881)\n(macOS) Fixed a deadlock (freeze) which can be observed if a Linux VM with GL acceleration enabled is left running for a long time (#5205)\n(macOS) Fixed auto-resolution restore not working properly after a macOS guest is paused or suspended (#6874)\n(macOS) Fixed an issue causing the mouse cursor to disappear when a macOS guest is paused (#6875)"
+		},
+		{
+			"beta": false,
+			"bundleIdentifier": "com.rileytestut.Delta",
+			"developerName": "Riley Testut",
+			"downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_6_3.ipa",
+			"iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+			"localizedDescription": "Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64. FEATURES Supported Game Systems • Nintendo Entertainment System • Super Nintendo Entertainment System • Nintendo 64 • Game Boy (Color) • Game Boy Advance • Nintendo DS • And plenty more to come!\n\nDelta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
+			"name": "Delta",
+			"screenshotURLs": [
+				"https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+				"https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+				"https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+			],
+			"size": 0,
+			"subtitle": "Game emulator with console like DS, SNES, NES...",
+			"tintColor": "018084",
+			"version": "1.6.3",
+			"versionDate": "2025-02-03",
+			"versionDescription": ""
+		},
+		{
+			"beta": false,
+			"bundleIdentifier": "com.burbn.instagram",
+			"developerName": "Cypwn IPA Library / Fouad Raheb ",
+			"downloadURL": "https://files.catbox.moe/jvicaz.ipa",
+			"iconURL": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+			"localizedDescription": "Boost your Instagram with many privacy, analytics, and customization features.",
+			"name": "Instagram",
+			"screenshotURLs": [
+				"https://regram.fouadraheb.com/assets/ss1-DuObw4FZ.png"
+			],
+			"size": 0,
+			"subtitle": "ReGram Cracked",
+			"tintColor": "018084",
+			"version": "351.0.1",
+			"versionDate": "2025-03-02",
+			"versionDescription": ""
+		},
+		{
+			"beta": false,
+			"bundleIdentifier": "com.google.ios.youtubemusic",
+			"developerName": "dayanch96",
+			"downloadURL": "https://files.catbox.moe/f1jvkr.ipa",
+			"iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/1024px-Youtube_Music_icon.svg.png",
+			"localizedDescription": "YTMusicUltimate is a YouTube Music tweak that adds free playback, no ads, free downloads, UI customization and more.",
+			"name": "YouTube Music",
+			"screenshotURLs": [
+				"https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true)",
+				"https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true)"
+			],
+			"size": 0,
+			"subtitle": "YTMusicUltimate - No ads, free playback, downloads and more",
+			"tintColor": "018084",
+			"version": "7.27",
+			"versionDate": "2025-03-02",
+			"versionDescription": "YTMusicUltimate 2.3\nMove to light version of mobile-ffmpeg\nMove downloading to native download button\nFix workflow issues"
+		},
+		{
+			"beta": false,
+			"bundleIdentifier": "com.google.ios.youtube",
+			"developerName": "dayanch96",
+			"downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+			"iconURL": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+			"localizedDescription": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.",
+			"name": "YouTube",
+			"screenshotURLs": [
+				"https://ytliteplus.github.io/Screenshot-1.png",
+				"https://ytliteplus.github.io/Screenshot-2.png",
+				"https://ytliteplus.github.io/Screenshot-3.png"
+			],
+			"size": 0,
+			"subtitle": "YTLitePlus - No ads, free downloads and more",
+			"tintColor": "018084",
+			"version": "19.34.2",
+			"versionDate": "2025-03-01",
+			"versionDescription": "RELEASE 19.34.2-5.0.1:\n\nUpdated Youtube from 19.32.6 to 19.34.2\nUpdated YTLite from 4.0.1 to 5.0.1"
+		},
+		{
+			"beta": false,
+			"bundleIdentifier": "com.spotify.client",
+			"developerName": "SpotCompiled",
+			"downloadURL": "https://files.catbox.moe/bshyar.ipa",
+			"iconURL": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png",
+			"localizedDescription": "Spotify Premium for free with SpotveeC.",
+			"name": "Spotify",
+			"screenshotURLs": [
+				""
+			],
+			"size": 0,
+			"subtitle": "Spotify Premium for free with SpotveeC.",
+			"tintColor": "018084",
+			"version": "3.3.4",
+			"versionDate": "2025-03-02T14:00:00-07:00",
+			"versionDescription": ""
+		}
+	],
+	"name": "Parata's Source",
+	"subtitle": "The source with everything a normal user needs.",
+	"description": "The source with everything a normal user needs.",
+	"iconURL": "",
+	"headerURL": "",
+	"website": "",
+	"patreonURL": "",
+	"tintColor": "",
+	"featuredApps": [],
+	"news": [],
+	"userInfo": {}
+}
