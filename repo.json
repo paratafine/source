@@ -7,11 +7,56 @@
   "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
+    "com.spotify.client",
     "com.google.ios.youtube",
-    "com.mojang.minecraftpe",
-    "com.spotify.client"
+    "com.mojang.minecraftpe"
   ],
   "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Spotify Premium for free",
+      "localizedDescription": "SpotveeC",
+      "iconURL": "https://i.imgur.com/xAq4Nqc.png",
+      "tintColor": "#1cd464",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://files.catbox.moe/3kkzy0.ipa",
+          "size": 80000000,
+          "version": "3.3.16",
+          "buildVersion": null,
+          "date": "2025-05-29T19:26:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "Minecraft",
       "bundleIdentifier": "com.mojang.minecraftpe",
@@ -35,8 +80,7 @@
           "downloadURL": "https://www.dropbox.com/scl/fi/gbx8506pfxz99pztcbxgi/Minecraft_1.21.61.ipa?rlkey=3zzlfqd7nly9ckxp01gle2ae9&st=askyfoam&dl=1",
           "size": 0,
           "buildVersion": null,
-          "minOSVersion": null,
-          "maxOSVersion": null
+          "minOSVersion": null
         }
       ],
       "appPermissions": {
@@ -66,8 +110,7 @@
           "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.6.4/UTM.ipa",
           "size": 0,
           "buildVersion": null,
-          "minOSVersion": null,
-          "maxOSVersion": null
+          "minOSVersion": null
         }
       ],
       "appPermissions": {
@@ -99,8 +142,7 @@
           "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_6_3.ipa",
           "size": 0,
           "buildVersion": null,
-          "minOSVersion": null,
-          "maxOSVersion": null
+          "minOSVersion": null
         }
       ],
       "appPermissions": {
@@ -130,8 +172,7 @@
           "downloadURL": "https://files.catbox.moe/jvicaz.ipa",
           "size": 0,
           "buildVersion": null,
-          "minOSVersion": null,
-          "maxOSVersion": null
+          "minOSVersion": null
         }
       ],
       "appPermissions": {
@@ -162,8 +203,7 @@
           "downloadURL": "https://files.catbox.moe/f1jvkr.ipa",
           "size": 0,
           "buildVersion": null,
-          "minOSVersion": null,
-          "maxOSVersion": null
+          "minOSVersion": null
         }
       ],
       "appPermissions": {
@@ -195,39 +235,7 @@
           "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
           "size": 0,
           "buildVersion": null,
-          "minOSVersion": null,
-          "maxOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
-      "marketplaceID": "",
-      "developerName": "SpotCompiled",
-      "subtitle": "Spotify Premium for free with SpotveeC.",
-      "localizedDescription": "Spotify Premium for free with SpotveeC.",
-      "iconURL": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png",
-      "tintColor": "#018084",
-      "category": "entertainment",
-      "screenshots": [
-        ""
-      ],
-      "versions": [
-        {
-          "version": "3.3.4",
-          "date": "2025-03-02T14:00:00-07:00",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://files.catbox.moe/bshyar.ipa",
-          "size": 0,
-          "buildVersion": null,
-          "minOSVersion": null,
-          "maxOSVersion": null
+          "minOSVersion": null
         }
       ],
       "appPermissions": {
@@ -238,6 +246,17 @@
     }
   ],
   "news": [
+    {
+      "title": "Updated Spotify",
+      "identifier": "news_g6d8uzev9v",
+      "caption": "Spotify has been updated to the latest version!",
+      "date": "2025-05-29T22:20",
+      "tintColor": "#1cd464",
+      "imageURL": "",
+      "notify": true,
+      "url": "",
+      "appID": "com.spotify.client"
+    },
     {
       "title": "Welcome to Parata's Source!",
       "identifier": "news_mbw7p7it0i",
