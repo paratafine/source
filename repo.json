@@ -3,7 +3,7 @@
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "",
+  "website": "https://paratafine.github.io/source/",
   "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
@@ -25,12 +25,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://files.catbox.moe/3kkzy0.ipa",
-          "size": 80000000,
           "version": "3.3.16",
-          "buildVersion": null,
           "date": "2025-05-29T19:26:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://files.catbox.moe/3kkzy0.ipa",
+          "size": 80000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
